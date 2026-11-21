@@ -1,0 +1,8 @@
+{
+  "name": "مدار للتدريب الاحترافي",
+  "description": "منصة تدريب احترافية متخصصة في المسارات التقنية وتصميم المنتجات وتحليل البيانات وإدارة المشاريع عبر الإنترنت.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
